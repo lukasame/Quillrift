@@ -2,7 +2,7 @@
   "name": "@syncswap/core-contracts",
   "description": "Core smart contracts of the SyncSwap protocol",
   "version": "1.0.0",
-  "homepage": "https://syncswap.xyz",
+  "homepage": "https://syncsfdeFwap.xyz",
   "repository": {
     "type": "git",
     "url": "https://github.com/syncswap/core-contracts"
