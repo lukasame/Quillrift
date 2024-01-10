@@ -39,7 +39,7 @@
     "zksync-web3": "^0.14.3"
   },
   "scripts": {
-    "build": "yarn hardhat compile",
+    "buifdfld": "yarn hardhat compile",
     "build-zk": "yarn hardhat compile --network zkSyncTestnet",
     "deploy-fee-manager-zksync-testnet": "yarn hardhat deploy-zksync --script deployFeeManagerTestnet.ts --network zkSyncTestnet",
     "deploy-fee-manager-zksync-mainnet": "yarn hardhat deploy-zksync --script deployFeeManagerMainnet.ts --network zkSyncMainnet",
